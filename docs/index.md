@@ -1,12 +1,11 @@
 ---
 layout: default
-title: 職務経歴書 | 井戸 春希
-description: 井戸 春希の職務経歴書
+description: 井戸 春希（いど はるき）の職務経歴書
 ---
 
-# 井戸 春希 — Platform Engineer
+# 井戸 春希（いど はるき）
 
-AWS / GCP / Terraform / Go
+**Platform Engineer** — AWS / GCP / Terraform / Go
 
 - GitHub: [HarukiIdo](https://github.com/HarukiIdo)
 - Wantedly: [haruki_ido](https://www.wantedly.com/id/haruki_ido)
